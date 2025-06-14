@@ -18,7 +18,8 @@ h1{
 p{
     color: orange;
 }
-h2{
+.close{
     text-align: center;
     color: white;
 }
+
